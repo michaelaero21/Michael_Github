@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pendaftaran</title>
+    <style>
+        *{
+            font-family: tahoma;
+        }
+        table,
+        th,
+        td{
+            border: 0px solid black;
+            text-align: left;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Pendaftaran Calon Mahasiswa Baru</h1>
+    <form method="post" action="">
+        <fieldset style="float: left;">
+            <legend>Biodata Calon Mahaiswa</legend>
+            <table>
+                <tr>
+                    <th>No. Daftar</th>
+                    <th>:</th>
+                    <td><input type="text" name="nodaftar"/></td>
+                </tr>
+                <tr>
+                    <th>Nama</th>
+                    <th>:</th>
+                    <td><input type="text" name="nama" size="40"/></td>
+                </tr>
+                <tr>
+                    <th>Alamat</th>
+                    <th>:</th>
+                    <td><textarea name="Alamat" rows="10" cols="50"></textarea></td>
+                </tr>
+                <tr>
+                    <th><label for="male">Jenis Kelamin</label></th>
+                    <th>:</th>
+                    <td>
+                        <input type="radio" value="L" name="gender" checked>Laki-laki
+                        <input type="radio" value="P" name="gender">Perempuan
+                    </td>
+                </tr>
+            </table>
+
+        </fieldset>
+        <fieldset style="float: left;">
+            <legend>Pendaftaran</legend>
+            <table style="padding: 10px;">
+                <tr>
+                    <th>Penerimaan</th>
+                    <th>:</th>
+                    <td>
+                        <select name="gelombang">
+                            <option value="01">Gelombang 1</option>
+                            <option value="01">Gelombang 2</option>
+                            <option value="01">Gelombang 3</option>
+                            <option value="01">Gelombang 4</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Program Studi</th>
+                    <th>:</th>
+                    <td>
+                        <select name="programstudi">
+                            <option value="-1">Pilih Salah satu</option>
+                            <optgroup label="Fakultas Ilmu Komputer dan Rekayasa">
+                                <option value="SI">Sistem Informasi</option>
+                                <option value="IF">Informatika</option>
+                                <option value="TE">Teknik Elektro</option>
+                            </optgroup>
+                            <optgroup label="Fakultas Ekonomi dan Bisnis">
+                                <option value="MA">Manajemen</option>
+                                <option value="AK">Akuntansi</option>
+                            </optgroup>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Biaya Pendaftaran</th>
+                    <th>:</th>
+                    <td><input type="number"/></td>
+                </tr>
+                <tr>
+                    <th></th>
+                    <th></th>
+                    <td><input type="submit"/><input type="reset"/></td>
+                </tr>
+            </table>
+        </fieldset>
+    </form>
+</body>
+</html>
