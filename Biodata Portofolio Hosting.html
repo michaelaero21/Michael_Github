@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Biodata</title>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <!-- Custom CSS -->
+  <style>
+    body {
+      background: linear-gradient(to right, #667eea, #764ba2);
+      animation: gradient 15s ease infinite;
+    }
+    @keyframes gradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+    .profile-img {
+      border-radius: 50%;
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+    }
+    .profile-heading {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 24px;
+      color: #fff;
+      margin-bottom: 20px;
+    }
+    .info-label {
+      font-weight: bold;
+      color: #fff;
+    }
+    .info-value {
+      font-style: italic;
+      color: #f8f9fa;
+    }
+    .interests-list {
+      list-style-type: none;
+      color: #fff;
+    }
+    .interests-list li:before {
+      content: "➤ ";
+    }
+  </style>
+</head>
+<body>
+
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-md-4 offset-md-4 text-center">
+      <img src="foto2.jpg" alt="Profile Picture" class="profile-img mb-3">
+      <h1 class="profile-heading"><strong>Michael</strong></h1>
+      <div class="mb-4">
+        <span class="info-label">Age:</span>
+        <span class="info-value">19</span>
+      </div>
+      <div class="mb-4">
+        <span class="info-label">Occupation:</span>
+        <span class="info-value">UI Designer</span>
+      </div>
+      <div class="mb-4">
+        <span class="info-label">Location:</span>
+        <span class="info-value">Indonesia</span>
+      </div>
+      <div class="mb-4">
+        <span class="info-label">Interests:</span>
+        <ul class="interests-list">
+          <li>Editing</li>
+          <li>UI Design</li>
+          <li>Traveling</li>
+          <li>Photography</li>
+          <li>Videography</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Bootstrap JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>
