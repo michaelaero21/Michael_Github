@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portofolio</title>
+  <title>Homepage</title>
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <!-- Custom CSS -->
@@ -12,51 +12,89 @@
       font-family: Arial, sans-serif;
       background-color: #f8f9fa;
     }
-    .header {
-      background-color: #343a40;
-      color: #fff;
-      padding: 20px 0;
-      text-align: center;
+    .navbar {
+      background-color: #343a40 !important;
     }
-    .portfolio-item {
+    .navbar-brand {
+      color: #fff !important;
+    }
+    .navbar-nav .nav-link {
+      color: #fff !important;
+    }
+    .profile-container {
       background-color: #fff;
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       padding: 20px;
-      margin-bottom: 30px;
-    }
-    .portfolio-item img {
-      max-width: 100%;
-      border-radius: 5px;
-    }
-    .portfolio-item h3 {
       margin-top: 20px;
+    }
+    .profile-img {
+      max-width: 150px;
+      border-radius: 50%;
+      float: left;
+      margin-right: 20px;
+    }
+    .profile-info {
+      overflow: hidden;
+    }
+    .profile-info h2 {
+      margin-top: 0;
+      margin-bottom: 20px;
+    }
+    .profile-info p {
+      margin: 10px 0;
+    }
+    .profile-info ul {
+      padding-left: 20px;
     }
   </style>
 </head>
 <body>
 
-<div class="container mt-5">
-  <div class="header">
-    <h1>Portofolio</h1>
+<nav class="navbar navbar-expand-lg navbar-dark">
+  <div class="container">
+    <a class="navbar-brand" href="#">Portofolio</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Portfolio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Contact</a>
+        </li>
+      </ul>
+    </div>
   </div>
-  
+</nav>
+
+<div class="container">
   <div class="row">
-    <div class="col-md-6 offset-md-3">
-      <div class="portfolio-item">
-        <img src="https://via.placeholder.com/400" alt="Portfolio Item 1">
-        <h3>Project 1</h3>
-        <p>Description of Project 1</p>
-      </div>
-      <div class="portfolio-item">
-        <img src="https://via.placeholder.com/400" alt="Portfolio Item 2">
-        <h3>Project 2</h3>
-        <p>Description of Project 2</p>
-      </div>
-      <div class="portfolio-item">
-        <img src="https://via.placeholder.com/400" alt="Portfolio Item 3">
-        <h3>Project 3</h3>
-        <p>Description of Project 3</p>
+    <div class="col-md-8">
+      <div class="profile-container">
+        <img src="https://via.placeholder.com/150" alt="Profile Picture" class="profile-img">
+        <div class="profile-info">
+          <h2>John Doe</h2>
+          <p><strong>Age:</strong> 30</p>
+          <p><strong>Occupation:</strong> Software Developer</p>
+          <p><strong>Location:</strong> New York, USA</p>
+          <p><strong>Interests:</strong></p>
+          <ul>
+            <li>Reading</li>
+            <li>Coding</li>
+            <li>Traveling</li>
+            <li>Photography</li>
+          </ul>
+        </div>
       </div>
     </div>
   </div>
