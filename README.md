@@ -1,6 +1,6 @@
 # Michael_Github
  Pengembangan Aplikasi Web 1
-# Informasi Pribadi
+# Informasi Saya
 
 - Nama: Michael
 - NPM: 2226240001
@@ -15,4 +15,4 @@
 
 # Informasi Lainnya
   ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/giphy.gif)
-
+  Hello World ! my name is Michael. i'm from Multi Data University Palembang.
