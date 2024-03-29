@@ -9,10 +9,9 @@
 
 # Informasi Perkuliahan
 
-- **Mata Kuliah:** [Nama Mata Kuliah]
-- **Dosen Pengampu:** [Nama Dosen Pengampu]
-- **Semester:** [Semester Mata Kuliah]
+- Mata Kuliah: Pengembangan Aplikasi Web 1
+- Dosen Pengampu: Hermawan M.Kom
+- Semester: 4
 
 # Informasi Lainnya
 
-- [Informasi Tambahan Lainnya]
