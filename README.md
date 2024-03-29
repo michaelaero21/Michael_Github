@@ -14,5 +14,5 @@
 - Semester: 4
 
 # Informasi Lainnya
-  ![GIF Example](https://raw.githubusercontent.com/username/reponame/main/giphy.gif)
+  ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/giphy.gif)
 
