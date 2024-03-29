@@ -15,4 +15,4 @@
 
 # Informasi Lainnya
   ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/giphy.gif)
-  Hello World ! my name is Michael. i'm from Multi Data University Palembang.
+  - Hello World ! my name is Michael. i'm from Multi Data University Palembang.
