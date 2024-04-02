@@ -1,20 +1,26 @@
-# Michael_Github
- Pengembangan Aplikasi Web 1
 # Informasi Saya
+- Nama : Michael
+- NPM : 2226240001
+##
 
-- Nama: Michael
-- NPM: 2226240001
-- Program Studi: Sistem  Informasi
-- Universitas: Universitas Multi Data Palembang
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-# Informasi Perkuliahan
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-- Mata Kuliah: Pengembangan Aplikasi Web 1
-- Dosen Pengampu: Hermawan M.Kom
-- Semester: 4
+Hai saya Michael dari Universitas Multi Data Palembang,
+dari Fakultas Ilmu Komputer dan Rekayasa, Program Studi Sistem Informasi
+sedang ingin mempelajari pengembangan aplikasi web 1. so stay tune !
+- ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/helloworld.gif)
+![Horizontal GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/giphy.gif)
+- ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/rog2.gif)
+![Horizontal GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/rog1.gif)
 
-# Informasi Lainnya
-  ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/giphy.gif)
-  ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/rog2.gif)
-  
-  - Hello World ! my name is Michael. i'm from Multi Data University Palembang.
+
+
+
+## Informasi Perkuliahan
+- Mata Kuliah : Pengembangan Aplikasi Web 1
+- Dosen Pengampu : Hermawan M.Kom
+- Program Studi : Sistem Informasi
+- Fakultas Ilmu Komputer dan Rekayasa
+- Universitas Multi Data Palembang
