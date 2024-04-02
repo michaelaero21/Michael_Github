@@ -10,8 +10,8 @@
 Hai saya Michael dari Universitas Multi Data Palembang,
 dari Fakultas Ilmu Komputer dan Rekayasa, Program Studi Sistem Informasi
 sedang ingin mempelajari pengembangan aplikasi web 1. so stay tune !
-- ![Horizontal GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/helloworld.gif)
-- ![Horizontal GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/coding2.gif)
+- ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/helloworld.gif)
+  ![Horizontal GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/coding2.gif)
 - ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/coding.gif)
 - ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/hack1.gif)
 
