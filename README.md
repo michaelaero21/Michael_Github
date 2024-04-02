@@ -12,7 +12,7 @@ dari Fakultas Ilmu Komputer dan Rekayasa, Program Studi Sistem Informasi
 sedang ingin mempelajari pengembangan aplikasi web 1. so stay tune !
 - ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/helloworld.gif)
 ![Horizontal GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/giphy.gif)
-- ![Horizontal GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/rog1.gif)
+- ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/rog1.gif)
 ![Horizontal GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/rog2.gif)
 
 
