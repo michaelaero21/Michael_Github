@@ -7,17 +7,19 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+Hai saya Michael dari Universitas Multi Data Palembang dengan Fakultas Ilmu Komputer dan Rekayasa, Program Studi Sistem Informasi
+sedang ingin mempelajari pengembangan aplikasi web 1. so stay tune !
+![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/helloworld.gif)
+![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/giphy.gif)
+![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/rog1.gif)
+![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/rog2.gif)
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
 
-## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+
+## Informasi Perkuliahan
+- Mata Kuliah : Pengembangan Aplikasi Web 1
+- Dosen Pengampu : Hermawan M.Kom
+- Program Studi : Sistem Informasi
+- Fakultas Ilmu Komputer dan Rekayasa
+- Universitas Multi Data Palembang
