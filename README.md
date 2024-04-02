@@ -1,23 +1,21 @@
-# Michael_Github
- Pengembangan Aplikasi Web 1
-# Informasi Saya
-
-- Nama: Michael
-- NPM: 2226240001
-- Program Studi: Sistem  Informasi
-- Universitas: Universitas Multi Data Palembang
-
 # Informasi Perkuliahan
+##
 
-- Mata Kuliah: Pengembangan Aplikasi Web 1
-- Dosen Pengampu: Hermawan M.Kom
-- Semester: 4
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-# Informasi Lainnya
-  ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/giphy.gif)
-  ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/rog1.gif)
-  ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/rog2.gif)
-  ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/helloworld.gif)
-  
-  
-  - Hello World ! my name is Michael. i'm from Multi Data University Palembang.
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+AngularJS-powered HTML5 Markdown editor.
+
+- Type some Markdown on the left
+- See HTML in the right
+- ✨Magic ✨
+
+## Features
+
+- Import a HTML file and watch it magically convert to Markdown
+- Drag and drop images (requires your Dropbox account be linked)
+- Import and save files from GitHub, Dropbox, Google Drive and One Drive
+- Drag and drop markdown and HTML files into Dillinger
+- Export documents as Markdown, HTML and PDF
