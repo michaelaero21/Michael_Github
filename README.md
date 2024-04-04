@@ -15,12 +15,6 @@ sedang ingin mempelajari pengembangan aplikasi web 1. so stay tune !
 |---|---|
 | ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/coding.gif) | ![GIF Example](https://github.com/michaelaero21/Michael_Github/blob/main/hack1.gif) |
 
-
-
-
-
-
-
 ## Informasi Perkuliahan
 - Mata Kuliah : Pengembangan Aplikasi Web 1
 - Dosen Pengampu : Hermawan M.Kom
